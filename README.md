@@ -1,2 +1,2 @@
 # odin-recipies
-hello world again!!
+2 recipies added. (Banana pancakes and classic waffles)
